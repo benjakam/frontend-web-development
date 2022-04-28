@@ -23,13 +23,48 @@ The structure is built with different elements to tell the browser how to displa
 
 -  Then comes HTML 4.01, which is widely used and was a successful version of HTML before HTML 5.0, which is currently released and used worldwide. HTML 5 can be said for an extended version of HTML 4.01, which was published in the year 2012.
 
-*W3Schools, HTML History Document*
-https://www.w3schools.in/html/history
+*[W3Schools, HTML History Document](https://www.w3schools.in/html/history)*
 
 ## Links
 Useful websites for learning:
- - [HTML @ Living Standard Docs](https://html.spec.whatwg.org/)
- - [HTML @ w3schools](https://www.w3schools.com/html/default.asp)
- - [HTML @ MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
- - 🇩🇪 __ [HTML @ Wiki Self-HTML](https://wiki.selfhtml.org/wiki/HTML)
- - 🇩🇪 __ [HTML @ Mediaevent](https://www.mediaevent.de/html/)
+| Name | Website |
+| ------ | ------ |
+| HTML Living Standard Docs | [w3.org](https://html.spec.whatwg.org/) |
+| HTML Tutorial | [w3schools.com](https://www.w3schools.com/html/default.asp) |
+| MDN Web Docs | [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| Wiki Self-HTML (German) | [wiki.selfhtml.org](https://wiki.selfhtml.org/wiki/HTML)  🇩🇪 |
+| Mediaevent HTML (German)| [mediaevent.de](https://www.mediaevent.de/html/) 🇩🇪 |
+
+## HTML Basics
+
+- An HTML element is defined by a start tag, some content, and an end tag
+
+- The HTML element is everything from the start tag to the end tag
+  
+ start Tag - element content - end tag
+ 
+`<html> html content </html>`
+
+__NOTE__: Some HTML elements have no content, for example the `<br>` element
+
+These elements are called empty elements. Empty elements do not have an end tag! 
+
+### Basic HTML Code
+```sh
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Website Title</title>
+</head>
+<body>
+ <h1>HTML</h1>
+</body>
+</html>
+```
+### !DOCTYPE
+`<!DOCTYPE html>`
+
+__All HTML documents must start with a <!DOCTYPE (html)> declaration__
+
+The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.
+
