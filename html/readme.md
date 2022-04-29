@@ -105,7 +105,7 @@ Note: *The folder structure depends on the individual project. It is important t
 </body>
 </html>
 ```
-*Placeholder: Screenshot here*
+![hellohtml](https://user-images.githubusercontent.com/92650697/165988710-edd65c7d-add0-4abd-a76c-e9ee7429269c.png)
 
 This is the first, very simple HTML document. These elements can already be displayed by the browser because the browser understands it is an HTML document. The web page displays the heading 'Hello HTML' to the visitors.
 
