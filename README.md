@@ -1,9 +1,12 @@
-# Web Development Masterclass
+# Frontend Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,wordpress,js,git,github)](https://skillicons.dev) 
 
-## About this Project
+## About this Project 
 
-Learing the fundamentals of coding HTML, CSS, JAVASCRPIT, GIT, GITHUB and more...
+My learning process, useful links, courses and projects, all about frontend web development.
 
-This project is for beginners and should also reflect my learning process, how I became a self-taught web developer. I think it's important to start with all the basics. It's not about learning coding right away, of course that's the most important thing later on, but starting with how everything works together is a good foundation. **Let's start**
+## Learning Content
+
+ - [HTML](https://github.com/benjakam/frontend-web-development/tree/master/html)
+
