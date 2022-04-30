@@ -21,7 +21,7 @@ The structure is built with different elements to tell the browser how to displa
 
 -  Then comes HTML 4.01, which is widely used and was a successful version of HTML before HTML 5.0, which is currently released and used worldwide. HTML 5 can be said for an extended version of HTML 4.01, which was published in the year 2012.
 
-*[W3Schools, HTML History Document](https://www.w3schools.in/html/history)*
+*[W3Schools, HTML History Document](https://www.w3schools.in/html/history)* | [whatwg.org, HTML History](https://html.spec.whatwg.org/#history-2)
 
 ## Links 🔗
 Useful websites for learning:
