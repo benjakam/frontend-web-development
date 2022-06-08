@@ -1,4 +1,4 @@
-# Frontend Web Development
+# Frontend Web Development Masterclass
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,wordpress,figma)](https://skillicons.dev) 
 
