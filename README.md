@@ -1,6 +1,6 @@
 # Frontend Web Development Masterclass
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,wordpress,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js)](https://skillicons.dev) 
 
 ## About this Project 
 
