@@ -1,6 +1,6 @@
 # Frontend Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,wordpress,js,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,wordpress,figma)](https://skillicons.dev) 
 
 ## About this Project 
 
