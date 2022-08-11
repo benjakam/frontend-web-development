@@ -18,3 +18,9 @@ DNS and how its work?
 What is a Domain Name?
 
 What is hosting?
+
+## Links 🔗
+Useful websites for learning:
+| Name | Website |
+| ------ | ------ |
+| Internet - Wikipedia | [wikipedia.org](https://en.wikipedia.org/wiki/Internet) |
