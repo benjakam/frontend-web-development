@@ -136,3 +136,5 @@ The head stores all important data about our website. The element contains any m
 The `<body> ` tag defines everything that is visible in the web browser. It is the main container and contains all the important content for a website project. For example: headings, paragraphs, images, hyperlinks, tables, lists, etc.
 
 Note: There can only be one `<body> ... </body>` element in an HTML document.
+
+...
