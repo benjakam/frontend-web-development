@@ -8,7 +8,9 @@ My learning process, useful links, courses and projects, all about frontend web 
 
 ## Learning Content
 
-- [The Internet](https://github.com/benjakam/frontend-web-development-masterclass/tree/master/The%20Internet%20and%20Networks)
+- [The Internet](https://github.com/benjakam/frontend-web-development-masterclass/tree/master/The%20Internet)
+
+- [Networks](https://github.com/benjakam/frontend-web-development-masterclass/tree/master/Networks)
 
 - [HTML](https://github.com/benjakam/frontend-web-development-masterclass/tree/master/HTML)
 
