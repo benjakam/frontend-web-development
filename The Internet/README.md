@@ -1,6 +1,7 @@
 ## Introduction
-The History of the Internet
+[The History of the Internet](https://en.wikipedia.org/wiki/History_of_the_Internet)
 
+## Preface
 Honestly, basically no frontend web developer has to deal with the history of the internet. But if you take a little time and go through the history, you will find many interesting inventions, such as Internet protocols and many other things that are still relevant today.
 
 A chronology is the easiest and quickest way to understand The History of the Internet, so I created one.
@@ -15,10 +16,9 @@ This website will then be continuously developed.
 
 ## The Internet
 What is the Internet and how its work?
-The Internet is a worldwide computer network and connects computers with each other. It is designed to share electronic documents such as files, text, video and audio. Internet protocols are used for data transmission. The word Internet originated from the term "interconnected networks," and was also formerly known as "Internetwork."
+The internet is essentially a massive network of networks. It's a global system of interconnected computer networks that use the Internet Protocol Suite (TCP/IP) to link devices worldwide. It's a network of networks that consists of private, public, academic, business, and government networks of local to global scope. The word Internet originated from the term "interconnected networks," and was also formerly known as "Internetwork."
 
-Browsers and how they work?
-...
+This is a very short description of how the internet works, to get a deeper insight and learn even more about the internet, go straight to [The Internet Masterclass - Part 2](https://en.wikipedia.org/wiki/LINK)
 
 ## Chronology Of The Internet (The Most Important Years)
 Russia sent Sputnik into space in 1957. There was the Sputnik crisis in the US and western countries in the late 50's and early 60's. In the course of this crisis, the [ARPANET (Advanced Research Projects Agency Network)](https://en.wikipedia.org/wiki/ARPANET) was developed, which contributed significantly to the emergence of the Internet.
@@ -110,6 +110,73 @@ Two large and very influential Internet companies are founded.
 **2001**:
 [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) is founded and is still the largest online encyclopedia in the world
 
+**2002**: 
+The [Internet2](https://en.wikipedia.org/wiki/Internet2) project significantly gains momentum. Global Terabit Research Network (GTRN), an international partnership to establish a true world-wide next generation Internet to interconnect national and multinational high speed research and education networks, is formed. Internet2 backbone network deploys the new Internet protocol, [IPv6](https://en.wikipedia.org/wiki/IPv6), nationwide.
+
+**2003**: 
+Launch of [Skype](https://en.wikipedia.org/wiki/Skype) revolutionizing communication with high-quality voice and video calls over the Internet.
+
+**2004**: 
+[Facebook](https://en.wikipedia.org/wiki/Facebook) is founded, quickly becoming a global phenomenon and changing the way people connect online.
+
+**2005**: 
+[YouTube](https://en.wikipedia.org/wiki/YouTube) becoming the go-to platform for video sharing and driving the Internet's shift towards video content.
+
+**2006**: 
+[Twitter](https://en.wikipedia.org/wiki/Twitter) is launched, introducing a new form of microblogging and becoming influential in news dissemination and social interaction.
+
+**2007**: 
+[Apple Inc.](https://en.wikipedia.org/wiki/Apple_Inc.) introduces the [iPhone](https://en.wikipedia.org/wiki/IPhone), greatly influencing mobile Internet usage and making it easier for people to access the Internet on the go.
+
+**2008**: 
+[Google](https://en.wikipedia.org/wiki/Google) introduces [Android](https://en.wikipedia.org/wiki/Android_(operating_system)), a [mobile operating system](https://en.wikipedia.org/wiki/Mobile_operating_system) based on a modified version of the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) and other [open-source software](https://en.wikipedia.org/wiki/Open-source_software), which becomes a major player in the [smartphone](https://en.wikipedia.org/wiki/Smartphone) market.
+
+**2009**: 
+The term ["Internet of Things" (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) gains popularity, describes devices with sensors, processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks.
+
+**2010**: 
+[Instagram](https://en.wikipedia.org/wiki/Instagram) is launched, revolutionizing photo sharing and online social interaction with its focus on visual content.
+
+**2011**: 
+[Snapchat](https://en.wikipedia.org/wiki/Snapchat) is released, introducing disappearing messages and novel image filters.
+
+**2012**: 
+Proliferation of [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) changes how businesses and individuals store and access [data](https://en.wikipedia.org/wiki/Data).
+
+**2013**: 
+[Edward Snowden's](https://en.wikipedia.org/wiki/Edward_Snowden) revelations about [NSA](https://en.wikipedia.org/wiki/National_Security_Agency) surveillance practices raise significant concerns about [privacy](https://en.wikipedia.org/wiki/Internet_privacy) and [security](https://en.wikipedia.org/wiki/Internet_security) on the [Internet](https://en.wikipedia.org/wiki/Internet).
+
+**2014**: 
+[Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality) becomes a major topic of discussion and debate. [Internet service providers (ISPs)](https://en.wikipedia.org/wiki/Internet_service_provider) must treat all Internet communications equally, offering users and online content providers consistent rates irrespective of content, [website](https://en.wikipedia.org/wiki/Website), [web platform](https://en.wikipedia.org/wiki/Web_platform), [application](https://en.wikipedia.org/wiki/Application_software), type of equipment, source address, destination address, or method of communication (without price discrimination).
+
+**2015**: 
+[Virtual Reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) technologies begin to gain traction.
+
+**2016**: 
+Increasing prevalence of [artificial intelligence (AI)](https://en.wikipedia.org/wiki/Artificial_intelligence) and [machine learning (ML)](https://en.wikipedia.org/wiki/Machine_learning) starts to significantly impact various [online service providers (OSP)](https://en.wikipedia.org/wiki/Online_service_provider).
+
+**2017**: 
+The rise of [blockchain technology](https://en.wikipedia.org/wiki/Blockchain) and [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) like [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) gain widespread attention.
+
+**2018**: 
+[GDPR (General Data Protection Regulation)](hhttps://en.wikipedia.org/wiki/General_Data_Protection_Regulation) is implemented in the EU, impacting how companies handle user data.
+
+**2019**: 
+Deployment of [5G technology](https://en.wikipedia.org/wiki/5G) begins, promising faster [Internet speed (Bandwidth)](https://en.wikipedia.org/wiki/Bandwidth_(computing)) and more reliable connectivity.
+
+**2020**: 
+The [COVID-19 pandemic](hhttps://en.wikipedia.org/wiki/COVID-19) leads to a dramatic increase in online activity for work, education, and social interaction.
+
+**2021**: 
+Major advancements in [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) suggest potential future impacts on [Internet security](https://en.wikipedia.org/wiki/Internet_security).
+
+**2022**: 
+The [Metaverse](https://en.wikipedia.org/wiki/Metaverse) concept gains popularity, proposing an immersive virtual experience integrating virtual and augmented realities.
+
+**2023**: 
+AI and Machine Learning Breakthroughs: [Artificial intelligence (AI)](https://en.wikipedia.org/wiki/Artificial_intelligence) and [machine learning (ML)](https://en.wikipedia.org/wiki/Machine_learning) saw significant advancements, with these [technologies](https://en.wikipedia.org/wiki/Technology) becoming more integrated into everyday Internet applications, enhancing user experiences and automation.
+
+
 This is a summary of the most important events in the history of the Internet.
 In my website project "Chronology of the Internet", I have many more interesting events and they are detailed in a timeline.
 
@@ -122,3 +189,36 @@ Useful web links about the Internet
 | ------ | ------ |
 | Internet - Wikipedia | [wikipedia.org/wiki/Internet](https://en.wikipedia.org/wiki/Internet) |
 | History of the Internet - Wikipedia | [wikipedia.org/wiki/History_of_the_Internet](https://en.wikipedia.org/wiki/History_of_the_Internet) |
+| ARPANET | [en.wikipedia.org/wiki/ARPANET](https://en.wikipedia.org/wiki/ARPANET) |
+| WWW - WorldWideWeb| [en.wikipedia.org/wiki/World_Wide_Web](https://en.wikipedia.org/wiki/World_Wide_Web) |
+| World Wide Web Consortium (W3C) | [en.wikipedia.org/wiki/World_Wide_Web_Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) |
+| Hypertext | [en.wikipedia.org/wiki/Hypertext](https://en.wikipedia.org/wiki/Hypertext) |
+| Website | [en.wikipedia.org/wiki/Website](https://en.wikipedia.org/wiki/Website) |
+| Web Platform | [en.wikipedia.org/wiki/Web_platform](https://en.wikipedia.org/wiki/Web_platform) |
+| Internet2 | [en.wikipedia.org/wiki/Internet2](https://en.wikipedia.org/wiki/Internet2) |
+| Internet of Things (IoT) | [en.wikipedia.org/wiki/Internet_of_things](https://en.wikipedia.org/wiki/Internet_of_things) |
+| Computer Networks | [en.wikipedia.org/wiki/Computer_network](https://en.wikipedia.org/wiki/Computer_network) |
+| Backbone Network | [en.wikipedia.org/wiki/Backbone_network](https://en.wikipedia.org/wiki/Backbone_network) |
+| NPL Network | [en.wikipedia.org/wiki/NPL_network](https://en.wikipedia.org/wiki/NPL_network) |
+| Local Area Network (LAN) | [en.wikipedia.org/wiki/Local_area_network](https://en.wikipedia.org/wiki/Local_area_network) |
+| Wi-Fi | [en.wikipedia.org/wiki/Wi-Fi](hhttps://en.wikipedia.org/wiki/Wi-Fi) |
+| Internet Service Provider (ISP) | [en.wikipedia.org/wiki/Internet_service_provider](https://en.wikipedia.org/wiki/Internet_service_provider) |
+| Internet Layer | [en.wikipedia.org/wiki/Internet_layer](https://en.wikipedia.org/wiki/Internet_layer) |
+| Transport Layer | [en.wikipedia.org/wiki/Transport_layer](https://en.wikipedia.org/wiki/Transport_layer) |
+| IP Protocol | [en.wikipedia.org/wiki/Internet_Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) |
+| IP addresses | [en.wikipedia.org/wiki/IP_address](https://en.wikipedia.org/wiki/IP_address) |
+| IPv4 | [en.wikipedia.org/wiki/IPv4](https://en.wikipedia.org/wiki/IPv4) |
+| IPv6 | [en.wikipedia.org/wiki/IPv6](https://en.wikipedia.org/wiki/IPv6) |
+| TCP Protocol | [en.wikipedia.org/wiki/Transmission_Control_Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) |
+| UUCP Protocol | [en.wikipedia.org/wiki/UUCP](https://en.wikipedia.org/wiki/UUCP) |
+| DNS Protocol | [en.wikipedia.org/wiki/Domain_Name_System](https://en.wikipedia.org/wiki/Domain_Name_System) |
+| Domain | [en.wikipedia.org/wiki/Domain_name](https://en.wikipedia.org/wiki/Domain_name) |
+| FTP | [en.wikipedia.org/wiki/File_Transfer_Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) |
+| Nodes | [en.wikipedia.org/wiki/Node_(networking)](https://en.wikipedia.org/wiki/Node_(networking)) |
+| Packet switching | [en.wikipedia.org/wiki/Packet_switching](https://en.wikipedia.org/wiki/Packet_switching) |
+| Web Server | [en.wikipedia.org/wiki/Web_server](https://en.wikipedia.org/wiki/Web_server) |
+| Cloud Computing | [en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing) |
+| Internet Security | [en.wikipedia.org/wiki/Internet_security](https://en.wikipedia.org/wiki/Internet_security) |
+| Internet Speed (Bandwidth) | [en.wikipedia.org/wiki/Bandwidth_(computing)](https://en.wikipedia.org/wiki/Bandwidth_(computing)) |
+| Usenet | [en.wikipedia.org/wiki/Usenet](https://en.wikipedia.org/wiki/Usenet) |
+| Telenet | [en.wikipedia.org/wiki/Telenet](https://en.wikipedia.org/wiki/Telenet) |
