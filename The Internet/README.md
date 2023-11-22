@@ -201,7 +201,7 @@ Useful web links about the Internet
 | Backbone Network | [en.wikipedia.org/wiki/Backbone_network](https://en.wikipedia.org/wiki/Backbone_network) |
 | NPL Network | [en.wikipedia.org/wiki/NPL_network](https://en.wikipedia.org/wiki/NPL_network) |
 | Local Area Network (LAN) | [en.wikipedia.org/wiki/Local_area_network](https://en.wikipedia.org/wiki/Local_area_network) |
-| Wi-Fi | [en.wikipedia.org/wiki/Wi-Fi](hhttps://en.wikipedia.org/wiki/Wi-Fi) |
+| Wi-Fi | [en.wikipedia.org/wiki/Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) |
 | Internet Service Provider (ISP) | [en.wikipedia.org/wiki/Internet_service_provider](https://en.wikipedia.org/wiki/Internet_service_provider) |
 | Internet Layer | [en.wikipedia.org/wiki/Internet_layer](https://en.wikipedia.org/wiki/Internet_layer) |
 | Transport Layer | [en.wikipedia.org/wiki/Transport_layer](https://en.wikipedia.org/wiki/Transport_layer) |
